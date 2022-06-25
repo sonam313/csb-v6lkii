@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://sonam313.github.io/csb-v6lkii/static/css/main.ad1ae326.chunk.css",
+    "main.js": "https://sonam313.github.io/csb-v6lkii/static/js/main.36b938d6.chunk.js",
+    "main.js.map": "https://sonam313.github.io/csb-v6lkii/static/js/main.36b938d6.chunk.js.map",
+    "runtime-main.js": "https://sonam313.github.io/csb-v6lkii/static/js/runtime-main.5b815a93.js",
+    "runtime-main.js.map": "https://sonam313.github.io/csb-v6lkii/static/js/runtime-main.5b815a93.js.map",
+    "static/js/2.6b7a2b29.chunk.js": "https://sonam313.github.io/csb-v6lkii/static/js/2.6b7a2b29.chunk.js",
+    "static/js/2.6b7a2b29.chunk.js.map": "https://sonam313.github.io/csb-v6lkii/static/js/2.6b7a2b29.chunk.js.map",
+    "index.html": "https://sonam313.github.io/csb-v6lkii/index.html",
+    "static/css/main.ad1ae326.chunk.css.map": "https://sonam313.github.io/csb-v6lkii/static/css/main.ad1ae326.chunk.css.map",
+    "static/js/2.6b7a2b29.chunk.js.LICENSE.txt": "https://sonam313.github.io/csb-v6lkii/static/js/2.6b7a2b29.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5b815a93.js",
+    "static/js/2.6b7a2b29.chunk.js",
+    "static/css/main.ad1ae326.chunk.css",
+    "static/js/main.36b938d6.chunk.js"
+  ]
+}
